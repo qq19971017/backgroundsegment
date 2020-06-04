@@ -1,0 +1,10 @@
+1. 从仓库拉取镜像
+docker pull [image name:tag]
+2. 查看本地的所有镜像
+docker images
+3. 查看运行的容器
+docker ps
+4. 查看所有的容器
+docker ps -a
+5. 删除镜像
+docker rmi [image name:tag]
